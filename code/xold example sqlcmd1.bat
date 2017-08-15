@@ -1,0 +1,1 @@
+sqlcmd -S SSCF2DBSSDEV01\ssc519devsql -i "D:\ClientData\Commands\projects\price_comparison\code\gwpMarketValueSingle1.sql"
